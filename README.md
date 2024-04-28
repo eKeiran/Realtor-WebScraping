@@ -2,19 +2,9 @@
 ![image](https://github.com/eKeiran/WebScraping/assets/34791715/5b88d667-78bb-46e3-bf21-a28d8dff376f)
 
 ### Overview
-This project involved scraping real estate listings from Realtor.com for properties located in Oregon. 
+This project involved scraping real estate listings from Realtor.com for properties located in Oregon (simply because Portland is so perfectly beautiful that I had to choose it)  
 Using Selenium and Beautiful Soup, I extracted new listings, including information such as address, zip code, bathrooms, bedrooms, price, and more.
 The scraped data was then saved into CSV files for further analysis.
-
-### File Structure
-├── folium_oregon.html
-├── preprocessed_scraped_oregon.csv
-├── Realtor_Analysis_Oregon.ipynb
-├── realtor-analysis-oregon.pdf
-├── scraped_data_oregon.csv
-├── WebScraping_Realtor_Oregon.ipynb
-└── webscraping-realtor-oregon.pdf
-
 
 ### Tools Used
 - Python
